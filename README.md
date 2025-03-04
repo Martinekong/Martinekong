@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Martine 👋  
+🚀 Front-End Developer | Passionate about JavaScript & UI/UX
+🎓 Studying Front-End Development at Noroff
+💡 Enthusiastic about building interactive and user-friendly web applications
 
-<!--
-**Martinekong/Martinekong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack  
+🔹 HTML | CSS | JavaScript
+🔹 REST APIs | Fetch API
+🔹 Git | GitHub | Netlify
 
-Here are some ideas to get you started:
+## Recent Projects
+🔬 [Community Science Museum](https://martinekong.github.io/semester-project-1/)
+🌧️ [Rainydays - Outdoor Clothing Store](https://martinekong.github.io/javascript-1-ca/)
+🏋 [Momentum - Workout Blog](https://fed1-pe1-momentum.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+- 🌍 I love traveling the world
+- 📖 I enjoy going to the gym or reading a good book
+- 🩺 I am a registered nurse, and have worked in orthopedics for eight years
+
+## Connect with Me  
+📧 Email: martinekongsrud@outlook.com  
+💼 [LinkedIn: Martine Kongsrud](https://www.linkedin.com/in/martine-kongsrud)  
