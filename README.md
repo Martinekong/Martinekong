@@ -8,6 +8,9 @@
 🔹 REST APIs | Fetch API  
 🔹 Git | GitHub | Netlify  
 
+## Portfolio
+⭐ [My Portfolio](#) (Coming soon!)  
+
 ## Recent Projects
 🔬 [Community Science Museum](https://martinekong.github.io/semester-project-1/)  
 🌧️ [Rainydays - Outdoor Clothing Store](https://martinekong.github.io/javascript-1-ca/)  
