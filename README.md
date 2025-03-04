@@ -1,17 +1,17 @@
 # Hi there, I'm Martine 👋  
-🚀 Front-End Developer | Passionate about JavaScript & UI/UX
-🎓 Studying Front-End Development at Noroff
-💡 Enthusiastic about building interactive and user-friendly web applications
+🚀 Front-End Developer | Passionate about JavaScript & UI/UX  
+🎓 Studying Front-End Development at Noroff  
+💡 Enthusiastic about building interactive and user-friendly web applications  
 
 ## Tech Stack  
-🔹 HTML | CSS | JavaScript
-🔹 REST APIs | Fetch API
-🔹 Git | GitHub | Netlify
+🔹 HTML | CSS | JavaScript  
+🔹 REST APIs | Fetch API  
+🔹 Git | GitHub | Netlify  
 
 ## Recent Projects
-🔬 [Community Science Museum](https://martinekong.github.io/semester-project-1/)
-🌧️ [Rainydays - Outdoor Clothing Store](https://martinekong.github.io/javascript-1-ca/)
-🏋 [Momentum - Workout Blog](https://fed1-pe1-momentum.netlify.app/)
+🔬 [Community Science Museum](https://martinekong.github.io/semester-project-1/)  
+🌧️ [Rainydays - Outdoor Clothing Store](https://martinekong.github.io/javascript-1-ca/)  
+🏋 [Momentum - Workout Blog](https://fed1-pe1-momentum.netlify.app/)  
 
 ## Fun Facts
 - 🌍 I love traveling the world
