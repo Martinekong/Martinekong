@@ -9,7 +9,7 @@
 🔹 Git | GitHub | Netlify  
 
 ## Portfolio
-⭐ [My Portfolio](#) (Coming soon!)  
+⭐ [My Portfolio](https://martinekong.github.io/Portfolio/)
 
 ## Recent Projects
 🔬 [Community Science Museum](https://martinekong.github.io/semester-project-1/)  
