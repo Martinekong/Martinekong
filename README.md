@@ -6,7 +6,15 @@
 ## Tech Stack  
 🔹 HTML | CSS | JavaScript  
 🔹 REST APIs | Fetch API  
-🔹 Git | GitHub | Netlify  
+🔹 Git | GitHub | Netlify
+
+## Portfolio
+⭐ <a href="https://martinekong.github.io/Portfolio/" target="_blank">My Portfolio</a>
+
+## Recent Projects
+🔬 <a href="https://martinekong.github.io/semester-project-1/" target="_blank">Community Science Museum</a>  
+🌧️ <a href="https://martinekong.github.io/javascript-1-ca/" target="_blank">Rainydays - Outdoor Clothing Store</a>  
+🏋 <a href="https://fed1-pe1-momentum.netlify.app/" target="_blank">Momentum - Workout Blog</a>
 
 ## Portfolio
 ⭐ [My Portfolio](https://martinekong.github.io/Portfolio/)
