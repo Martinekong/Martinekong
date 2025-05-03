@@ -14,7 +14,7 @@
 ## Recent Projects
 🔬 [Community Science Museum](https://martinekong.github.io/FED1-SP1/)  
 🌧️ [Rainydays - Outdoor Clothing Store](https://martinekong.github.io/FED1-JS1-CA/)  
-🏋 [Momentum - Workout Blog](https://fed1-pe1-momentum.netlify.app/)  
+🏋 [Momentum - Workout Blog](https://martinekong.github.io/FED1-PE1/)  
 
 ## Fun Facts
 - 🌍 I love traveling the world
