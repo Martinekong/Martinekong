@@ -12,8 +12,8 @@
 ⭐ [My Portfolio](https://martinekong.github.io/Portfolio/)
 
 ## Recent Projects
-🔬 [Community Science Museum](https://martinekong.github.io/semester-project-1/)  
-🌧️ [Rainydays - Outdoor Clothing Store](https://martinekong.github.io/javascript-1-ca/)  
+🔬 [Community Science Museum](https://martinekong.github.io/FED1-SP1/)  
+🌧️ [Rainydays - Outdoor Clothing Store](https://martinekong.github.io/FED1-JS1-CA/)  
 🏋 [Momentum - Workout Blog](https://fed1-pe1-momentum.netlify.app/)  
 
 ## Fun Facts
