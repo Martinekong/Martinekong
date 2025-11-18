@@ -4,10 +4,10 @@
 💡 Enthusiastic about building interactive and user-friendly web applications  
 
 ## Tech Stack  
-🔹 HTML | CSS | Tailwind CSS
-🔹 JavaScript | TypeScript | React
-🔹 REST APIs | Node.js | Express.js
-🔹 Git | GitHub | Netlify
+🔹 HTML | CSS | Tailwind CSS  
+🔹 JavaScript | TypeScript | React  
+🔹 REST APIs | Node.js | Express.js  
+🔹 Git | GitHub | Netlify  
 
 ## Portfolio
 ⭐ [My Portfolio](https://martinekong.github.io/Portfolio/)
