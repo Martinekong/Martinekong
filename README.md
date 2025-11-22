@@ -13,6 +13,10 @@
 ⭐ [My Portfolio](https://martinekong.github.io/Portfolio/)
 
 ## Recent Projects
+👩🏼‍⚖️ [Bidly - Auction House](https://martinekong.github.io/fed2-sp2/)  
+🛍️ [Varivo - Online Shop](https://varivo.netlify.app/)
+
+## All School Projects
 🔬 [Community Science Museum](https://martinekong.github.io/FED1-SP1/)  
 🌧️ [Rainydays - Outdoor Clothing Store](https://martinekong.github.io/FED1-JS1-CA/)  
 🏋 [Momentum - Workout Blog](https://martinekong.github.io/FED1-PE1/)  
